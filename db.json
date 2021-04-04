@@ -1,0 +1,52 @@
+{
+  "burgers": [
+    {
+      "id": 0,
+      "name": "Kuraci Burger",
+      "description": "Starý dobrý hamburger v súčasnosti zažíva obdobie renesancie.Obľúbeným variantom sa stal hamburger z kuracieho mäsa. ",
+      "ingredients": ["kuraci steak","domaca zemla","super dresing","miesany salat","syr cheddar","hranolky","tatarska omacka","kecup"],
+      "weight": "150g",
+      "img": "https://www.saltandlavender.com/wp-content/uploads/2016/05/ground-chicken-burgers-1.jpg"
+    },
+    {
+      "id": 1,
+      "name": "Hovädzi Burger",
+      "description": " ",
+      "ingredients": ["100% hovädzie mäso","domaca zemla","super dresing","miesany salat","uhorky","syr cheddar","chrumkava slanina","tatarska omacka","hranolky","kecup"],
+      "weight": "170g",
+      "img": "https://lh3.googleusercontent.com/proxy/egISw1HtJsz3NvmFlZrQAWviLwbqKawUXgGe01m-Qp9jeouK6NJz7GTV4AFlbvjUb97j75udheSwNkm5UWyVIMuq02DmG8plvyLactU9f0jH5R5lOTQ4e9QW"
+    },
+    {
+      "id": 2,
+      "name": "Vegan Burger",
+      "description": " ",
+      "ingredients": ["bezlepkova domaca zemla","sojove mäso","super dresing","miesany salat","½ cukety","syr cheddar","2 žlté paradajky","1 štipľavá paprika","1 hrsť rukoly","tatarska omacka","hranolky","kecup"],
+      "weight": "190g",
+      "img": "https://biancazapatka.com/wp-content/uploads/2020/05/veganer-bohnen-burger.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Exclusive Burger",
+      "description": " ",
+      "ingredients": ["domaca zemla","hovädzia svieckova","medovo-horčicovy chili dresing","grilovana zelenina","cibula","salat","slanina","rukola","tatarska omacka","hranolky"],
+      "weight": "350g",
+      "img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/15A70/production/_116788688__b5t5223.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Black Master Chef Burger",
+      "description": " ",
+      "ingredients": ["domaca zemla","hovädzie mäso","BBQ dresing","grilovane sampiony","karamelizovana cibula","salat","slanina","uhorky","tatarska omacka","hranolky"],
+      "weight": "350g",
+      "img": "https://media-cdn.tripadvisor.com/media/photo-s/1a/d4/a1/ce/real-australian-black.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Love Burger",
+      "description": " ",
+      "ingredients": ["domaca zemla","hovädzie mäso","cibula","cesarov salat","chedar","uhorka","tatarska omacka","hranolky","slanina","paradajka"],
+      "weight": "350g",
+      "img": "https://johnrieber.files.wordpress.com/2016/02/valentines-day-love-burger.jpg?w=528"
+    }
+  ]
+}
