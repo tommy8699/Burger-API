@@ -1,0 +1,26 @@
+{
+  "name": "burger-api",
+  "version": "1.0.0",
+  "description": "This is an burger api, in which burgers are sold in Slovakia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommy8699/Burger-API.git"
+  },
+  "keywords": [
+    "burger-api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommy8699/Burger-API/issues"
+  },
+  "homepage": "https://github.com/tommy8699/Burger-API#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
